@@ -1418,7 +1418,6 @@ thead{
 .main-login{
     justify-content: space-around;
     padding-top: 20px;
-    border-top: 1px solid #ccc;
     position: relative;
 }
 .main-login::before{
