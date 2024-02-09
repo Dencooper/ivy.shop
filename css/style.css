@@ -10,8 +10,11 @@ html {
 }
 .container{
     max-width: 1400px;
-    border-bottom: 0.8px solid #ccc;
+    border-bottom: 0.8px solid #eff0f2;
     padding: 0;
+}
+main .container{
+    padding-bottom: 30px;
 }
 ul{
     padding-left: 0;
@@ -551,7 +554,6 @@ del{
 /* Product */
 .product-top{
     margin: 5px 0 40px;
-    border-top: 0.2px solid #eff0f2;
     border-bottom: 0.2px solid #eff0f2;
     font-size: 13px;
 }
