@@ -475,6 +475,7 @@ label input{
 }
 .cartegory-top{
     font-size: 14px;
+    border-bottom: 1px solid #F7F8F9;
 }
 .cartegory-top p, .cartegory-top a{
     font-size: 14px;
